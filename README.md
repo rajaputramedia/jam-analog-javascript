@@ -1,2 +1,2 @@
 # jam-analog-javascript
-Membuat Jam Analog dengan Javascript
+Tutorial cara membuat jam analog dengan Javascript http://www.rajaputramedia.com/artikel/membuat-jam-analog-dan-digital-dengan-javascript.php
